@@ -9,6 +9,10 @@
 
 <body>
   <h1> Hello world</h1>
+  <ul>
+    <li>coba remote ke 2</li>
+    <li>coba remote ke 3</li>
+  </ul>
 </body>
 
 </html>
